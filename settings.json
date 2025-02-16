@@ -1,4 +1,33 @@
 {
+   "editor.formatOnSave": true,
+   "phpfmt.php_bin": "php",
+   "phpfmt.passes": [
+      "AlignPHPCode",
+      "AlignDoubleArrow",
+      "AddMissingParentheses",
+      "ConvertOpenTagWithEcho",
+      "DocBlockToComment",
+      "IndentTernaryConditions",
+      "JoinToImplode",
+      "PSR2KeywordsLowerCase",
+      "PSR2LnAfterNamespace",
+      "PSR2CurlyOpenNextLine",
+      "PSR2ModifierVisibilityStaticOrder",
+      "PSR2SingleEmptyLineAndStripClosingTag",
+      "ReindentSwitchBlocks",
+      "RemoveUseLeadingSlash",
+      "StripExtraCommaInArray",
+      "SpaceBetweenMethods",
+   ],
+   "phpfmt.exclude": [
+      "ReindentComments",
+      "StripNewlineWithinClassBody"
+   ],
+   "phpfmt.psr2": false,
+   "[php]": {
+      "editor.defaultFormatter": "kokororin.vscode-phpfmt"
+   },
+   // VSCODE STYLE:
    "editor.fontSize": 14,
    "editor.lineHeight": 1.8,
    "javascript.suggest.autoImports": true,
@@ -46,7 +75,7 @@
    "workbench.activityBar.location": "default",
    "editor.hideCursorInOverviewRuler": true,
    "editor.minimap.enabled": true,
-   "editor.scrollbar.vertical": "hidden",
+   "editor.scrollbar.vertical": "visible",
    "explorer.sortOrder": "foldersNestsFiles",
    "explorer.fileNesting.enabled": true,
    "workbench.statusBar.visible": true,
