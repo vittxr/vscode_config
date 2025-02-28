@@ -53,6 +53,6 @@
    "workbench.statusBar.visible": true,
    "workbench.layoutControl.enabled": false,
    "window.autoDetectColorScheme": true,
-   "workbench.preferredDarkColorTheme": "poimandres",
+   "workbench.preferredDarkColorTheme": "GitHub Dark",
    "workbench.editor.wrapTabs": true
 }
