@@ -26,3 +26,15 @@ I have have a custom style customization for my vscode, so each profile contains
 ![image](https://github.com/user-attachments/assets/4e38e957-aae7-4b5f-86df-fc12fd836778)
 
 The highlighted values are extensions that need to be installed (or it may be invalid, an outdated config value)
+
+# Common good extensions 
+
+Common good extensions that should be included in all profiles
+
+1. [gitlens](http://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+2. [better-comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+3. [code-spell-checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+4. [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+5. [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+6. [IntelliCode API Usage Examples](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.intellicode-api-usage-examples)
+7. [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
