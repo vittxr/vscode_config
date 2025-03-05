@@ -38,3 +38,15 @@ Common good extensions that should be included in all profiles
 5. [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 6. [IntelliCode API Usage Examples](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.intellicode-api-usage-examples)
 7. [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+
+# Profiles spec
+
+## Python (Including frameworks: FastAPI, Flask, etc.)
+
+- **Linter:** [Ruff](https://docs.astral.sh/ruff/)  
+  I prefer `ruff` over `black` since it is written in Rust.  
+
+- **Type Checker:** [Pylance/Pyright](https://github.com/microsoft/pyright)  
+  Microsoft has implemented protections to block the execution of `Pylance` outside of VSCode. Type checking and most of Pylance’s functionality are actually provided by the open-source `pyright`.  
+
+  By the way, I prefer using `pyright` instead of `mypy`.  
