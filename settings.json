@@ -1,4 +1,18 @@
 {
+   // VSCODE SETTINGS
+   "editor.formatOnSave": true,
+   "[jsonc]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+   },
+   "[json]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+   },
+   "workbench.editor.enablePreview": false,
+   "terminal.integrated.env.windows": {},
+   "git.suggestSmartCommit": false,
+   "git.confirmSync": false,
+   "github.copilot.editor.enableAutoCompletions": true,
+   "git.autofetch": true,
    // VSCODE STYLE:
    "editor.fontSize": 14,
    "editor.lineHeight": 1.8,
@@ -53,6 +67,6 @@
    "workbench.statusBar.visible": true,
    "workbench.layoutControl.enabled": false,
    "window.autoDetectColorScheme": true,
+   "workbench.editor.wrapTabs": true,
    "workbench.preferredDarkColorTheme": "GitHub Dark",
-   "workbench.editor.wrapTabs": true
 }
