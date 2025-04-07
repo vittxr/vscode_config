@@ -39,6 +39,7 @@ Common good extensions that should be included in all profiles
 6. [IntelliCode API Usage Examples](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.intellicode-api-usage-examples)
 7. [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 8. [Github Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+9. [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
 # Profiles spec
 
