@@ -33,13 +33,12 @@ Common good extensions that should be included in all profiles
 
 1. [gitlens](http://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 2. [better-comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
-3. [code-spell-checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
-4. [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
-5. [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
-6. [IntelliCode API Usage Examples](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.intellicode-api-usage-examples)
-7. [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
-8. [Github Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
-9. [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+3. [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+4. [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+5. [IntelliCode API Usage Examples](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.intellicode-api-usage-examples)
+6. [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+7. [Github Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+8. [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
 # Profiles spec
 
