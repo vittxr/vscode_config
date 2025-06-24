@@ -51,3 +51,7 @@ Common good extensions that should be included in all profiles
   Microsoft has implemented protections to block the execution of `Pylance` outside of VSCode. Type checking and most of Pylance’s functionality are actually provided by the open-source `pyright`.  
 
   By the way, I prefer using `pyright` instead of `mypy`.  
+
+## Flutter
+
+Read the docs to setup vscode for flutter (you should install flutter sdk): https://docs.flutter.dev/get-started/install/linux/android
