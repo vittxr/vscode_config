@@ -39,7 +39,8 @@ Common good extensions that should be included in all profiles
 6. [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 7. [Github Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 8. [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-
+9. [vscode-pull-request-github](https://open-vsx.org/extension/GitHub/vscode-pull-request-github)
+    
 # Profiles spec
 
 ## Python (Including frameworks: FastAPI, Flask, etc.)
